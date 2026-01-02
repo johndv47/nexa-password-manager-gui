@@ -1,1 +1,1 @@
-# nexa-password-manager-gui
+# Nexa Password Manager GUI
